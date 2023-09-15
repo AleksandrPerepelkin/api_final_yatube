@@ -1,5 +1,3 @@
-КОД КРУТИТСЯ, БАБЛИШКО МУТИТСЯ.
-
 И так
 
 api_final_yatube - (доработанный проект api_yatube) REST API для проекта Yatube
